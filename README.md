@@ -28,3 +28,6 @@ List of all the images classified with the final classification assigned after h
 Columns description:
 * _idResource_: ID of the image classified
 * _aggregateCategory_: final classification
+
+## Dataset3
+List of all the images played in the game with the URL to the NASA website. 
