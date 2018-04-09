@@ -34,4 +34,4 @@ List of all the images played in the game with the URL to the NASA website.
 
 Columns description:
 * _idResource_: ID of the image classified
-* _refUrl_: url of the NASA page with the image
+* _refUrl_: url of the NASA page with the image.
